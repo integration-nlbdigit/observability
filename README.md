@@ -14,7 +14,37 @@ To make sure the workshop runs smoothly and efficiently, participants should com
     • Run docker version and docker-compose version to ensure both are installed correctly <br>
     • Make sure Docker is running (check the Docker icon in the system tray for Windows)
 
-2. <b> Install Java Development Kit (JDK)</b>
+2. <b>Install Visual Studio Code</b><br>
+   A VSC will help you to write and debug .NET code more efficiently.<br>
+   Download from VS Code: https://code.visualstudio.com/
+
+3. <b>Install .NET</b><br>
+    Download .NET For Windows: https://dotnet.microsoft.com/en-us/download
+
+4. <b>Install extensions in Visual Studio Code</b><br>
+    •	C# Dev Kit (for .NET development)<br>
+    •	REST Client (for API testing)<br>
+    •	Docker <br>
+
+5. <b>Install Git</b><br>
+    Git is required to clone repositories and manage code versions. Steps:<br>
+    • Download & Install Git: <br>
+      o Download Git : https://git-scm.com/downloads<br>
+    • Verify Installation: <br>
+      o Run git --version  in the terminal/command prompt.<br>
+    
+    What you should verify:<br>
+    • Git is installed correctly and working by running the command git --version
+
+7. <b>Install Postman for API Testing</b><br>
+    Postman is a popular tool for testing and interacting with APIs<br>
+    Steps: Download Postman<br>
+  
+    What you should verify:<br>
+    • You should be able to send API requests (GET, POST) to interact with the Spring Boot, .Net services etc.<br>   
+
+<b>OPTIONAL</b>
+1. <b> Install Java Development Kit (JDK)</b>
   Java 11 or higher is required for building and running the Spring Boot microservices. Steps:<br>
   • Install JDK (Java 11 or higher): <br>
   • Download JDK 11+ TBD LINK: https://www.oracle.com/java/technologies/downloads/#java11?er=221886
@@ -25,7 +55,7 @@ To make sure the workshop runs smoothly and efficiently, participants should com
     What you should verify:<br>
     • Make sure Java is installed correctly and the version is 11 or above.
 
-3. <b>Install Maven</b><br>
+2. <b>Install Maven</b><br>
    •	Download and Install Maven<br>
       Go to the official Maven website: https://maven.apache.org/download.cgi<br>
       Download the binary ZIP (not the source).<br>
@@ -56,7 +86,7 @@ To make sure the workshop runs smoothly and efficiently, participants should com
       Apache Maven 3.x.xMaven home: C:\mavenJava version: 17.0.x<br>
       If you see this, Maven is successfully installed! 🚀<br>
 
-4. <b>Install Integrated Development Environment (IDE)</b><br>
+3. <b>Install Integrated Development Environment (IDE)</b><br>
     A IDE will help you to write and debug Java code more efficiently.<br>
     Recommended IDE:<br>
     • IntelliJ IDEA: Preferred IDE for Java development. <br>
@@ -66,34 +96,9 @@ To make sure the workshop runs smoothly and efficiently, participants should com
     • The IDE is set up for Java development.<br>
     • Make sure you can open and edit Java files.<br>
 
-5. <b>Install Git</b><br>
-    Git is required to clone repositories and manage code versions. Steps:<br>
-    • Download & Install Git: <br>
-      o Download Git : https://git-scm.com/downloads<br>
-    • Verify Installation: <br>
-      o Run git --version  in the terminal/command prompt.<br>
-    
-    What you should verify:<br>
-    • Git is installed correctly and working by running the command git --version
 
-6. <b>Install Postman for API Testing</b><br>
-    Postman is a popular tool for testing and interacting with APIs<br>
-    Steps: Download Postman<br>
-  
-    What you should verify:<br>
-    • You should be able to send API requests (GET, POST) to interact with the Spring Boot, .Net services etc.<br>
 
-7. <b>Install Visual Studio Code</b><br>
-   A VSC will help you to write and debug .NET code more efficiently.<br>
-   Download from VS Code: https://code.visualstudio.com/
 
-8. <b>Install .NET</b><br>
-    Download .NET For Windows: https://dotnet.microsoft.com/en-us/download
-
-9. <b>Install extensions in Visual Studio Code</b><br>
-    •	C# Dev Kit (for .NET development)<br>
-    •	REST Client (for API testing)<br>
-    •	Docker <br>
 
 
 
