@@ -1,0 +1,4 @@
+C:\Projects\workshop\Otel-Backend\Models\obj\Debug\net7.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\workshop\Otel-Backend\Models\obj\Debug\net7.0\Models.AssemblyInfoInputs.cache
+C:\Projects\workshop\Otel-Backend\Models\obj\Debug\net7.0\Models.AssemblyInfo.cs
+C:\Projects\workshop\Otel-Backend\Models\obj\Debug\net7.0\Models.csproj.CoreCompileInputs.cache

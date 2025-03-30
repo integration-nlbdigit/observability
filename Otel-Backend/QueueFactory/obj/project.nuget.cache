@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uezglj82X2I=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\workshop\\Otel-Backend\\QueueFactory\\QueueFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\snezana.stefanovska\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\snezana.stefanovska\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\snezana.stefanovska\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
+    "C:\\Users\\snezana.stefanovska\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\snezana.stefanovska\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\snezana.stefanovska\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.14\\microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

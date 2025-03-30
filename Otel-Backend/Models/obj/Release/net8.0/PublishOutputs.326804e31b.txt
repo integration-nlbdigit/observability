@@ -1,0 +1,3 @@
+C:\app\publish\Models.dll
+C:\app\publish\Models.deps.json
+C:\app\publish\Models.pdb

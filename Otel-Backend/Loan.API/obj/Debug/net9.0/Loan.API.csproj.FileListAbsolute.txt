@@ -1,0 +1,7 @@
+C:\Projects\workshop\Otel-Backend\loan.api\obj\Debug\net8.0\Loan.API.csproj.AssemblyReference.cache
+C:\Projects\workshop\Otel-Backend\loan.api\obj\Debug\net8.0\Loan.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\workshop\Otel-Backend\loan.api\obj\Debug\net8.0\Loan.API.AssemblyInfoInputs.cache
+C:\Projects\workshop\Otel-Backend\loan.api\obj\Debug\net8.0\Loan.API.AssemblyInfo.cs
+C:\Projects\workshop\Otel-Backend\loan.api\obj\Debug\net8.0\Loan.API.csproj.CoreCompileInputs.cache
+C:\Projects\workshop\Otel-Backend\loan.api\obj\Debug\net8.0\Loan.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\workshop\Otel-Backend\loan.api\obj\Debug\net8.0\Loan.API.MvcApplicationPartsAssemblyInfo.cache

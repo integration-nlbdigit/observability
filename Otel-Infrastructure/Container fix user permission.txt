@@ -1,0 +1,5 @@
+In windows terminal run:
+
+docker run -it --rm -v /var/lib/docker/volumes/{path}/prometheus:/prometheus ubuntu:22.04
+
+chown -R 65534:65534 prometheus
