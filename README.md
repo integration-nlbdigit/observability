@@ -41,8 +41,7 @@ To make sure the workshop runs smoothly and efficiently, participants should com
    Note: if you can't see System Variables, you can open "Git Bash"-> Navigate to desired folder-> git clone https://github.com/integration-nlbdigit/observability.git
 
 6. <b>Install .NET SDK</b><br>
-    https://aka.ms/dotnet/download
-    ---Download .NET For Windows: https://dotnet.microsoft.com/en-us/download
+   Download .NET (8 and 9) For Windows: https://dotnet.microsoft.com/en-us/download
 
 7. <b>Install extensions in Visual Studio Code</b><br>
     •	C# Dev Kit (for .NET development)<br>
