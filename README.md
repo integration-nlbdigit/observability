@@ -18,15 +18,7 @@ To make sure the workshop runs smoothly and efficiently, participants should com
    A VSC will help you to write and debug .NET code more efficiently.<br>
    Download from VS Code: https://code.visualstudio.com/
 
-3. <b>Install .NET</b><br>
-    Download .NET For Windows: https://dotnet.microsoft.com/en-us/download
-
-4. <b>Install extensions in Visual Studio Code</b><br>
-    •	C# Dev Kit (for .NET development)<br>
-    •	REST Client (for API testing)<br>
-    •	Docker <br>
-
-5. <b>Install Git</b><br>
+3. <b>Install Git</b><br>
     Git is required to clone repositories and manage code versions. Steps:<br>
     • Download & Install Git: <br>
       o Download Git : https://git-scm.com/downloads<br>
@@ -36,7 +28,28 @@ To make sure the workshop runs smoothly and efficiently, participants should com
     What you should verify:<br>
     • Git is installed correctly and working by running the command git --version
 
-7. <b>Install Postman for API Testing</b><br>
+4. <b>Add Git to System PATH (Windows Only)</b><br>
+    If Git is installed but not recognized:<br>
+       Press Win + R, type sysdm.cpl, and press Enter.<br>
+       Go to the <b>Advanced</b> tab and click <b>Environment Variables</b>.<br>
+       Under <b>System Variables</b>, find and select Path, then click Edit.<br>
+       Click New and add the path to your Git bin and cmd folders. Usually:<br>
+       C:\Program Files\Git\bin<br>
+       C:\Program Files\Git\cmd<br>
+   Click OK and restart your command prompt or PC.<br>
+
+   Note: if you can't see System Variables, you can open "Git Bash"-> Navigate to desired folder-> git clone https://github.com/integration-nlbdigit/observability.git
+
+6. <b>Install .NET SDK</b><br>
+    https://aka.ms/dotnet/download
+    ---Download .NET For Windows: https://dotnet.microsoft.com/en-us/download
+
+7. <b>Install extensions in Visual Studio Code</b><br>
+    •	C# Dev Kit (for .NET development)<br>
+    •	REST Client (for API testing)<br>
+    •	Docker <br>
+
+8. <b>Install Postman for API Testing</b><br>
     Postman is a popular tool for testing and interacting with APIs<br>
     Steps: Download Postman<br>
   
